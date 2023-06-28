@@ -1,7 +1,7 @@
-class secoand
+class Secoand
 {
-    public static void main(string args[])
+    public static void main(String args[])
     {
-        System.out.println("This is kailash")
-    }
+        System.out.println("This is kailash");
+    } 
 }
